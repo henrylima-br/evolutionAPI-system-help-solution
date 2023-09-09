@@ -210,7 +210,7 @@ export class ChatwootService {
         '123456',
         inboxId,
         false,
-        'EvolutionAPI',
+        'Gerado de QR',
         'https://evolution-api.com/files/evolution-api-favicon.png',
       )) as any);
 
