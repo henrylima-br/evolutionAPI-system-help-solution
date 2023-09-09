@@ -7,7 +7,7 @@
 # Choose the server type for the application
 SERVER:
   TYPE: http # https
-  PORT: 8080 # 443
+  PORT: 8081 # 443
   URL: localhost
 
 CORS:
@@ -123,7 +123,7 @@ WEBHOOK:
 
 CONFIG_SESSION_PHONE:
   # Name that will be displayed on smartphone connection
-  CLIENT: "Evolution API"
+  CLIENT: "Whatsapp"
   NAME: chrome # chrome | firefox | edge | opera | safari
 
 # Set qrcode display limit
